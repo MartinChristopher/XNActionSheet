@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'XNActionSheet_Example' do
+  pod 'XNActionSheet', :path => '../'
+
+  target 'XNActionSheet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
