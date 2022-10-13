@@ -1,0 +1,16 @@
+PODS:
+  - XNActionSheet (0.0.1)
+
+DEPENDENCIES:
+  - XNActionSheet (from `../`)
+
+EXTERNAL SOURCES:
+  XNActionSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XNActionSheet: 5fee1d5af9d3321cc3457f9790cea1d924166225
+
+PODFILE CHECKSUM: 0038f4f56d5518d667724e01e48207c3251f4a71
+
+COCOAPODS: 1.11.3
